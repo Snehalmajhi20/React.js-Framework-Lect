@@ -1,0 +1,26 @@
+.user-container{
+    background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+    padding: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1.5rem;
+    border-radius: 10px;
+}
+#title{
+    color: black;
+    font-size: 3rem;
+}
+#user-img{
+    width: 190px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#user-desc{
+    font-size: 1.5rem;
+    color: black;
+}
