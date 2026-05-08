@@ -4,7 +4,7 @@
     background-blend-mode: multiply,multiply;
     background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: center;
     align-items: center;
     flex-direction: column;
